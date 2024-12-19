@@ -57,3 +57,4 @@ Handles cases where no grades are entered and exits gracefully with an appropria
 Output Summary:
 
 Displays the calculated average and corresponding letter grade.
+https://github.com/NishmithaMG/CODTECH-IT-SOLUTIONS/blob/c29d3c1e8af971f7656eecac088097746553f9e3/student%20grade%20tracker%20output.png
