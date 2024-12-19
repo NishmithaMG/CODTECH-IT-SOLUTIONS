@@ -27,6 +27,7 @@ Includes a catch block for handling arithmetic exceptions, although not strictly
 Result Display:
 
 Outputs the calculated result for the chosen operation.
+https://github.com/NishmithaMG/CODTECH-IT-SOLUTIONS/blob/b6a18951b6bfa37a5fb53920c2557fbef900c822/simple%20calculator%20output.png
 
 
 
