@@ -28,6 +28,7 @@ Result Display:
 
 Outputs the calculated result for the chosen operation.
 https://github.com/NishmithaMG/CODTECH-IT-SOLUTIONS/blob/b6a18951b6bfa37a5fb53920c2557fbef900c822/simple%20calculator%20output.png
+https://github.com/NishmithaMG/CODTECH-IT-SOLUTIONS/blob/34c0a7a32a743817b9d41f1b10292045d7d947f2/simple%20calculator%20output(con).png
 
 
 
